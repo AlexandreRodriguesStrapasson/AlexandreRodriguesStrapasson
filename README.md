@@ -7,12 +7,7 @@
 
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreRodriguesStrapasson&show_icons=true&theme=radical)
 
-<br>
-
 [![Alexandre](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRodriguesStrapasson&layout=donut-vertical)](https://github.com/AlexandreStrpasson)
-
-
-<br>
 
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
