@@ -5,12 +5,6 @@
 
 ---
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreRodriguesStrapasson&show_icons=true&theme=radical)
-
-[![Alexandre](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRodriguesStrapasson&layout=donut-vertical)](https://github.com/AlexandreStrpasson)
-
----
-
 ### 💻 Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
