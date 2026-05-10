@@ -25,4 +25,4 @@
 
 ---
 
-Apaixonado por programação e por ajudar as pessoas. Sempre estudando para desenvolver meus conhecimentos.
+Full-Stack Developer Jr. | Vue.js · C# · Next.js · TypeScript
